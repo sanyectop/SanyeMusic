@@ -5,7 +5,7 @@
 **叁葉音乐** —— 基于 Tauri 2 + React 19 的 Windows 桌面音乐播放器
 
 内置 QQ音乐 / 网易云 / 酷狗多源搜索 · lx-music 音源脚本兼容 · QQ 音乐雷达 · 逐字歌词 · 桌面歌词 · AI 歌词翻译
-
+**在对代码完成一系列必要的检查前，项目暂不开源**
 `PrivateBeta4`
 
 ![platform](https://img.shields.io/badge/platform-Windows-0078d4?logo=windows&logoColor=white)
